@@ -1,0 +1,50 @@
+A{color:#FF6600}
+A:hover	{color: #D7DADF}
+
+select, input, textarea
+{ 
+background-image: url('/images/bg/forms_back.gif');
+border:1px solid #606060;
+color:#484848
+
+} 
+
+
+.date
+{
+cursor: pointer; cursor: hand;
+}
+
+.category
+{
+cursor: pointer; cursor: hand;
+font-size: 10pt;
+color:#454545;
+text-decoration: underline;
+
+}
+
+
+body
+{
+	background: #F8F8F8;
+	margin: 0px;
+	padding: 0px;
+	MARGIN-TOP: 0px;
+	MARGIN-BOTTOM: 0px;
+	MARGIN-LEFT: 0px;
+	MARGIN-RIGHT: 0px;	
+}
+
+
+
+html {
+scrollbar-base-color: #f2f2f2; 
+scrollbar-track-color: #f9fafa;
+scrollbar-face-color: #F1F1F1;
+scrollbar-highlight-color: #ffffff;
+scrollbar-3dlight-color: #ffffff;
+scrollbar-darkshadow-color: #ffffff;
+scrollbar-shadow-color: #C8C8CA;
+scrollbar-arrow-color: #999999;
+}
