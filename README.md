@@ -16,15 +16,17 @@ The portal is a legacy project from 2007 and has been designed for Canadians.
   * IIS
  
 ## Features
-* Main, Policy, Contact Us, Advice pages
+* Post
 * List classifieds by 
   * Province/Outside Canada
   * Category
   * Last added
-* Post
 * Admin
   * List Advertisement
   * Delete
+* Main, Policy, Contact Us pages
+* Footer
+  * Advice, Print, Links - Affiliate Banners
 
 ## Instructions
 * Upload asp files to wwwroot.
