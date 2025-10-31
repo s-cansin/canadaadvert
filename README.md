@@ -15,7 +15,7 @@ The portal is a legacy project from 2007 and has been designed for Canadians.
 
 ## Documentation
 * Dependencies
-  * IIS
+  * IIS (Classic ASP feature installed on)
  
 ## Features
 * Post
