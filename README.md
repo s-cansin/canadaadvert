@@ -11,6 +11,8 @@ The portal is a legacy project from 2007 and has been designed for Canadians.
 
 ![Alt text](/screenshot-2.jpg?raw=true "Application Screenshot")
 
+[Promo Video](https://raw.githubusercontent.com/s-cansin/canadaadvert/refs/heads/main/promo_video.mp4)
+
 ## Documentation
 * Dependencies
   * IIS
@@ -34,6 +36,3 @@ The portal is a legacy project from 2007 and has been designed for Canadians.
 
 ## About the author
 * Samed is a full-stack web developer from QC, creating responsive enterprise systems and informatics architectures for the Web.
-<video src="[promo_video.mp4](https://raw.githubusercontent.com/s-cansin/canadaadvert/refs/heads/main/promo_video.mp4)" controls width="600"></video>
-<video src="https://raw.githubusercontent.com/s-cansin/canadaadvert/refs/heads/main/promo_video.mp4" controls width="600"></video>
-[promo_video.mp4](https://raw.githubusercontent.com/s-cansin/canadaadvert/refs/heads/main/promo_video.mp4)
