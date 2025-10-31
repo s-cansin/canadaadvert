@@ -34,4 +34,4 @@ The portal is a legacy project from 2007 and has been designed for Canadians.
 
 ## About the author
 * Samed is a full-stack web developer from QC, creating responsive enterprise systems and informatics architectures for the Web.
-[![Promo Video](promo_video.mp4)
+<video src="promo_video.mp4" controls width="600"></video>
